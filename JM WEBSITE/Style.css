@@ -1,0 +1,207 @@
+.main-parent{
+    background-color: black;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    font-size:25px;
+    font-family: sans-serif;
+    background-color: black;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    font-size: 17px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: sans-serif;
+   
+    margin-right: 30px;
+}
+.main-heading{
+    margin-left: 50px
+}
+.Menu-options{
+    text-decoration: none;
+    color: gray;
+}
+.Menu-options:hover{
+    color: #0095AB;
+}
+.hero-section{
+    display: flex;
+    margin-bottom: 50px;
+}
+.hero-image{
+    width: 550px;
+    height: 450px;
+    margin-left: 50px;
+}
+.hero-section-heading{
+    color: #0095AB;
+    font-size: 40px;
+    margin-left: 50px;
+}
+.found{
+    font-size: 25px;
+color: #777;
+}
+.counter-number{
+    color: #fff;
+}
+.About-us{
+    color: #fff;
+}
+.Icon{
+    width: 150px;
+    height: 150px;
+    filter: contrast(0.1);
+}
+.Expertise{
+    color: #fff;
+}
+.counter{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    font-family: sans-serif;
+    margin-bottom: 50px;
+}
+.counter-heading{
+    color: #0095AB;
+    font-size: 50px;
+    margin-top: 40px;
+    text-align: center;
+}
+.counter-para{
+   
+    margin-top: -40px;
+    font-size: 25px;
+}
+.About-us{
+    text-align: center;
+    font-family: sans-serif;
+}
+.about-heading{
+    color: #0095AB;
+    font-size: 45px;
+
+}
+.about-para{
+    font-size: 25px;
+    color: white;
+    line-height: 1.5;
+}
+.Expertise{
+    text-align: center;
+    font-family: sans-serif;
+}
+.expertise-heading{
+    font-size: 40px;
+    color: #0095AB;
+}
+.expertise-para{
+    font-size: 25px;
+}
+.logo-1{
+    height: 470px;
+    width: 470px;
+}
+.logo-2{
+    height: 400px;
+    width: 700px;
+}
+.logo-3{
+    height:400px ;
+    width: 700px;
+}
+
+.Portfolio{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.portfolio-heading{
+    color: #0095AB;
+    font-size: 50px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.Contact{
+    font-family: sans-serif;
+    text-align: center;
+    margin-bottom: 50px;
+    
+}
+.contact-heading{
+    color: #0095AB;
+    font-size: 50px;
+}
+.contact-para{
+    color: white;
+    font-size: 25px;
+    line-height: 1.5;
+}
+.List{
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+    font-family: sans-serif;
+    list-style: none;
+}
+.main-form{
+    width: 40%;
+    height: 40px;
+    margin-bottom: 10PX;
+}
+.Footer{
+    font-size: 25px;
+    font-family: sans-serif;
+    color:black;
+    text-align: center;
+    background-color: #0095AB;
+}
+.main-form-button{
+    width: 30%;
+    height: 40px;
+    background-color: #0095AB;
+    color: black;
+}
+.Text{
+    color:white;
+    font-family: sans-serif;
+    font-size: 50px;
+
+}
+.Thanks{
+    color: #0095AB;
+    font-family: sans-serif;
+    font-size: 150px;
+}
+.prank{
+    color: red;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.Body-p{
+    background-color: black;
+    text-align: center;
+}
+.typesdesign{
+    color: #0095AB;
+    font-family: sans-serif;
+    font-size: 35px;
+}
+.type-designlist{
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 25px;
+    list-style: none;
+}
+.list{
+    margin-bottom: 15px;
+}

@@ -1,0 +1,47 @@
+@media(max-width:1440px){
+    .Body-p{
+        width:100%;
+        text-align: center;
+    }
+    
+}
+@media(max-width:1024px){
+    .Body-p{
+        width:100%;
+        text-align: center;
+    }
+}
+@media(max-width:768px){
+    .Body-p{
+        width:100%;
+        text-align: center;
+    }
+}
+@media(max-width:425px){
+    .Body-p{
+        width:100%;
+        text-align: center;
+    }
+
+    .Thanks{
+        font-size: 20px;
+    }
+    .Text{
+        text-align: center;
+    }
+}
+@media(max-width:375px){
+    .Body-p{
+        width:100%;
+        text-align: center;
+    }
+    .main-div{
+        width: 20em;
+    }
+    .Thanks{
+        font-size: 50px;
+    }
+    .Text{
+        text-align: center;
+    }
+}
